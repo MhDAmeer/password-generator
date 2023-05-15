@@ -1,0 +1,94 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    background-color: #1c1c1c;
+  }
+  
+  .app-guide {
+    font-family: "Karla", sans-serif;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 40px;
+    color: #fff;
+  }
+  
+  .side-style {
+    color: #4adf86;
+  }
+  
+  .pass-frame {
+    background-color: #1f2937;
+    width: 550px;
+    margin: 20px auto;
+    padding: 50px 50px;
+  }
+  
+  .advice {
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    color: #d5d4d8;
+    margin-top: 10px;
+  }
+  
+  .pass-btn {
+    border-radius: 6px;
+    padding: 9px 17px 9px 15px;
+    background-color: #10b981;
+    color: #fff;
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    border: none;
+    margin-top: 50px;
+    margin-bottom: 35px;
+    cursor: pointer;
+  }
+  
+  .password {
+    background: #273549;
+    border-radius: 6px;
+    height: 40px;
+    color: #55f991;
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 32px;
+    width: 200px;
+    text-align: center;
+    padding: 4px 10px;
+    margin-top: 35px;
+  }
+  
+  .clipboard {
+    background: #273549;
+    border-radius: 6px;
+    text-align: right;
+  }
+  
+  .pass-boxes {
+    display: flex;
+    gap: 50px;
+  }
+  
+  .hori-box {
+    border: none;
+    border-top: 1px solid #2f3e53;
+  }
+  
+  .choice {
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #fff;
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-between;
+  }
